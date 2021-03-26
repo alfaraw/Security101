@@ -52,11 +52,11 @@ Second of all verify the domain, maybe during this boring article you did not no
 This one is regarding phishing and messages that you could get via Discord for example.
 Probably you know that you should always avoid malicious *.exe files from the internet, but have you ever thought about csv (ALL excel formats) etc.?
 
-You cool abroad colleague is sending you GAINZ.cvs and you re excited to open it (again feels, curiosity), and he made a cool macro in cvs that is calculating gains in real-time :o but you need to click "Enable Editing". What could get wrong?
+Your cool abroad colleague is sending you GAINZ.cvs and you re excited to open it (again feels, curiosity), and he made a cool macro in cvs that is calculating gains in real-time :o but you need to click "Enable Editing". What could get wrong?
 
 So excel allows creating macros in VBA which is a programing language so you could potentially run malware. Here is an example game is written in excel VBA: https://www.youtube.com/watch?v=1vbjpJIRtJk
 
-ps. it is a good habbit to do not accept any files from persons meet on the internet.
+ps. it is a good habit to do not accept any files from persons meet on the internet.
 
 3.Storing Password in Clear Text
 
