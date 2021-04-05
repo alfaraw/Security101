@@ -57,7 +57,7 @@ Your cool abroad colleague is sending you GAINZ.cvs and you re excited to open i
 So excel allows creating macros in VBA which is a programing language so you could potentially run malware. Here is an example game is written in excel VBA: https://www.youtube.com/watch?v=1vbjpJIRtJk
 
 ps. it is a good habit to do not accept any files from persons meet on the internet.
-
+ps2. You can verify content of the file using https://www.virustotal.com/
 3.Storing Password in Clear Text
 
 Just no. You never store password on your computer in clear text or Encoded in base64.
